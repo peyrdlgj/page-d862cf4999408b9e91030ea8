@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2afef2df4c1f1c561ac0ed41",
+  "owner": "peyrdlgj",
+  "repo": "page-d862cf4999408b9e91030ea8",
+  "title": "小柴",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d862cf4999408b9e91030ea8",
+      "a": "小柴",
+      "b": "机场官网线路发布页",
+      "entity": "小柴",
+      "brand": "小柴",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4c0d224a6e8d97c792640c7218c475fbd7a9b91d62fbbccabc75075505149ea4",
+      "content": {
+        "primary_entity": "小柴",
+        "keyword1": "小柴",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，小柴针对跨境加速场景提供多档订阅方案，覆盖基础版、旗舰版与团队版，满足从日常流媒体到企业级多设备协同的需求。旗舰版适合追求高带宽和低延迟的用户，团队版则为多终端团队预留充足流量和设备额度。",
+          "AI_HERO_SUBTITLE": "多设备场景的跨境加速方案",
+          "AI_HERO_INTRO": "小柴提供面向跨境访问场景的加速订阅服务，按流量、设备数和线路类型划分套餐，方便不同规模的用户按需选择，在流媒体、游戏和远程办公等场景中保持稳定连接。",
+          "AI_VISUAL_TITLE": "小柴订阅套餐一览",
+          "AI_HIGHLIGHT_1": "三档订阅按需匹配",
+          "AI_HIGHLIGHT_2": "旗舰版支持五台设备",
+          "AI_HIGHLIGHT_3": "团队版可容纳二十台设备",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和线路类型出发，快速匹配适合自己的小柴订阅。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备，多人共享建议直接选团队版。",
+          "AI_FEATURE_TITLE_2": "按流量规划周期",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB适合轻度使用，旗舰版300GB兼顾流媒体，团队版1000GB适合高消耗场景。",
+          "AI_FEATURE_TITLE_3": "年付更省心",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供年付方案，基础版¥150/年，旗舰版¥350/年，团队版¥850/年，长期使用可优先考虑。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，并在订阅导入时确认适配要求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版覆盖不同使用强度，可按设备数量和月流量决定档位。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "从选择套餐到完成配置，按顺序处理即可开始使用。",
+          "AI_STEP_TITLE_1": "选定订阅档位",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，在小柴基础版、旗舰版或团队版中选择一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备数量和操作系统版本满足所选套餐的接入条件，避免超出设备上限。",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照配置文档导入订阅信息，完成后测试连接是否正常。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "小柴基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，并配备IPLC专线节点，适合对流媒体和游戏延迟有更高要求的用户。",
+          "AI_FAQ_QUESTION_2": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月1000GB流量、支持20台设备同时在线，并提供VIP专属高带宽节点和企业定制路由，适合多人协作或需要统一管理多终端的团队。",
+          "AI_FAQ_QUESTION_3": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付¥15，年付¥150；旗舰版月付¥35，年付¥350；团队版月付¥85，年付¥850。年付相当于按十个月计费，适合长期使用。",
+          "AI_FAQ_QUESTION_4": "订阅在小柴不同客户端之间能通用吗？",
+          "AI_FAQ_ANSWER_4": "同一订阅可在支持的小柴客户端中配合使用，但设备总数受套餐上限限制。建议先在主用设备上完成配置，再按需添加其他设备。",
+          "AI_FAQ_QUESTION_5": "超出套餐流量后会怎样？",
+          "AI_FAQ_ANSWER_5": "超出当月流量后连接速度可能受限。可以根据实际用量提前升级到更高档位，或等待下个计费周期流量重置。",
+          "AI_CLOSING_TITLE": "选对小柴订阅档位",
+          "AI_CLOSING_TEXT": "按设备数量和月流量核对需求，从基础版、旗舰版或团队版中选一档开始配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "teemt.cn",
+    "host": "teemt.cn"
+  },
+  "file_hashes": {
+    "index.html": "30e83d1b6bb1f5403bbf6f26f79ab95d386d7ed0dc11d637c66c1ec603604b82",
+    "sitemap.xml": "95e1521707d2268105797ac9f675cd9006f5e53955ca20e0e58b47dae15f80da",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "76f699863db0db8726b0dbfa9acb711e97fa22db75634c4901869eef17dae7e2",
+    "robots.txt": "b5531b4c182222ad97ed7034cc8ed767db3f2222bc328b676685f06c556c3bd9",
+    "c52b61bf720c08330814dfda1bd15ed2.txt": "2838dc794522f62f4582627643b9974efe1e5a3d961104a1f124a236834b3c1c"
+  },
+  "revision": "48fc00075c17ccd75e9536e23186bbee3e7b6ef3e7e1491b1f29781508a62f3e"
+}
